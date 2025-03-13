@@ -105,8 +105,4 @@ A continuación, se listan las técnicas y comandos extraídos de labs, con su m
 
 ## Notas Finales
 
-- **Labs de Origen**: Hunting in Memory (1 y 2), Process Injection, Advanced Endpoint (1 y 2), Hunting Malware (1 y 2).
 - **Flexibilidad**: Ajusta PIDs y rutas según tu entorno.
-- **Práctica**: Usa estos comandos en entornos controlados para dominar el hunting.
-
-¡Caza amenazas como experto con estas técnicas!
